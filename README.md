@@ -6,9 +6,9 @@ Adaline is a single layer neural network with multiple nodes where each node acc
 ![image](https://user-images.githubusercontent.com/47561760/123557610-182c5180-d7a7-11eb-8916-aac5ff99d580.png)
 
 # Architecture
-The ADALINE computes the activation potential u by summing up all the contributions from the multiplication of the inputs by the synaptic weights and its threshold.
+The ADALINE computes the activation potential y by summing up all the contributions from the multiplication of the inputs by the synaptic weights and its threshold.
 and adjust the weights and bios as follows (The process of adjusting the weights and threshold of the ADALINE network is based on a learning algorithm named the Delta
-rule (Widrow and Hoff 1960) or Widrow-Hoff learning rule, also known as LMS (Least Mean Square) algorithm or Gradient Descent method.) :  
+rule (Widrow and Hoff 1960) or Widrow-Hoff learning rule, also known as LMS (Least Mean Square) algorithm or Gradient Descent method) :  
 
 ![image](https://user-images.githubusercontent.com/47561760/123557906-c389d600-d7a8-11eb-9408-1f82ab7a079a.png)
 ![image](https://user-images.githubusercontent.com/47561760/123557915-d00e2e80-d7a8-11eb-9a28-a686c5957530.png)
