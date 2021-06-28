@@ -52,6 +52,11 @@ towards the minimum point w* of the squared error function {E(w)}
 ![image](https://user-images.githubusercontent.com/47561760/123558634-9b03db00-d7ac-11eb-8b20-118038e2b171.png)
 
 
+# How Code Works? 
+There are several examples for adaline implementation that here I've chosen XO prediction in python which includes ```adaline()``` function that performs adaline algorithm like discussed above and ```getData()``` function for getting data and save it in ```dataset.txt``` file for training adaline weights. We store adaline weights in ```weights.txt``` file and use ```tkinter``` for GUI.
+
+
+
 
 
 
